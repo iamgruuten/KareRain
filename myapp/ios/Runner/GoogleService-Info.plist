@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>235958338746-239h5o5m8k0d7c1qcidudquvhhdh5nm0.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.235958338746-239h5o5m8k0d7c1qcidudquvhhdh5nm0</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCj2ES9OC-suSlJpKpupuvscEvWxBnNUPw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>235958338746</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>testrun.myapp</string>
+	<key>PROJECT_ID</key>
+	<string>smart-window-app</string>
+	<key>STORAGE_BUCKET</key>
+	<string>smart-window-app.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:235958338746:ios:be218ea246eb8c35d0ae83</string>
+	<key>DATABASE_URL</key>
+	<string>https://smart-window-app.firebaseio.com</string>
+</dict>
+</plist>
