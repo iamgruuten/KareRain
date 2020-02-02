@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "235958338746",
+    "firebase_url": "https://smart-window-app.firebaseio.com",
+    "project_id": "smart-window-app",
+    "storage_bucket": "smart-window-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235958338746:android:0b8ac97a4cd670a4d0ae83",
+        "android_client_info": {
+          "package_name": "testrun.myapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "235958338746-7aafts9gvuagckpk553imr1cjnqav0fd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBe6bbD6JLzEwF1-sdhDH5nt-9BKxDfXSk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "235958338746-7aafts9gvuagckpk553imr1cjnqav0fd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "235958338746-239h5o5m8k0d7c1qcidudquvhhdh5nm0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "testrun.myapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235958338746:android:50e626ae5f115158d0ae83",
+        "android_client_info": {
+          "package_name": "testrun.myapps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "235958338746-7aafts9gvuagckpk553imr1cjnqav0fd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBe6bbD6JLzEwF1-sdhDH5nt-9BKxDfXSk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "235958338746-7aafts9gvuagckpk553imr1cjnqav0fd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "235958338746-239h5o5m8k0d7c1qcidudquvhhdh5nm0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "testrun.myapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
